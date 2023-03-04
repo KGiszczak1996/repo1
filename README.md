@@ -6,4 +6,4 @@ Simple calculator !
 
 First somewhat incolved project :))) Used it to practice git too
 
-POG
+POGCHAMP
